@@ -1,2 +1,2 @@
-<strong>Sup Ya'll</strong>
+# Sup Ya'll
 It's a "Hello World" program, but saying "Sup Ya'll"... groundbreaking stuff here...
